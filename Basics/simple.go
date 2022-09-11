@@ -15,4 +15,5 @@ func main() {
 	shorthand()
 	UserInput()
 	conditionals()
+	for_loop()
 }
