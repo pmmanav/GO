@@ -12,4 +12,7 @@ func main() {
 	fmt.Println("Go Simple Example")
 	fmt.Println("Go First Example")
 	variables()
+	shorthand()
+	UserInput()
+	conditionals()
 }
